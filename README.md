@@ -1,3 +1,2 @@
-Katerina Zhadko
-
-HTML CSS Basics: https://www.codecademy.com/users/cathzetjo/achievements
+Katerina Zhadko  
+HTML CSS Basics: <https://www.codecademy.com/users/cathzetjo/achievements>
